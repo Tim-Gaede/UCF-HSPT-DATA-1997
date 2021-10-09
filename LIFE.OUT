@@ -1,0 +1,275 @@
+0 dies out.
+1 has a period of 1 units.
+00 dies out.
+10 has a period of 1 units.
+01 has a period of 1 units.
+11 has a period of 1 units.
+000 dies out.
+100 has a period of 1 units.
+010 dies out.
+110 has a period of 1 units.
+001 has a period of 1 units.
+101 has a period of 1 units.
+011 has a period of 1 units.
+111 has a period of 1 units.
+0000 dies out.
+1000 has a period of 4 units.
+0100 has a period of 2 units.
+1100 has a period of 4 units.
+0010 has a period of 2 units.
+1010 has a period of 4 units.
+0110 has a period of 1 units.
+1110 has a period of 4 units.
+0001 has a period of 4 units.
+1001 has a period of 2 units.
+0101 has a period of 4 units.
+1101 has a period of 1 units.
+0011 has a period of 4 units.
+1011 has a period of 1 units.
+0111 has a period of 4 units.
+1111 has a period of 2 units.
+00000 dies out.
+10000 has a period of 1 units.
+01000 dies out.
+11000 has a period of 1 units.
+00100 dies out.
+10100 has a period of 1 units.
+01100 dies out.
+11100 has a period of 1 units.
+00010 dies out.
+10010 has a period of 1 units.
+01010 dies out.
+11010 has a period of 1 units.
+00110 dies out.
+10110 has a period of 1 units.
+01110 dies out.
+11110 has a period of 1 units.
+00001 has a period of 1 units.
+10001 has a period of 1 units.
+01001 has a period of 1 units.
+11001 has a period of 1 units.
+00101 has a period of 1 units.
+10101 has a period of 1 units.
+01101 has a period of 1 units.
+11101 has a period of 1 units.
+00011 has a period of 1 units.
+10011 has a period of 1 units.
+01011 has a period of 1 units.
+11011 has a period of 1 units.
+00111 has a period of 1 units.
+10111 has a period of 1 units.
+01111 has a period of 1 units.
+11111 has a period of 1 units.
+000000 dies out.
+100000 has a period of 6 units.
+010000 has a period of 6 units.
+110000 has a period of 6 units.
+001000 has a period of 6 units.
+101000 has a period of 3 units.
+011000 has a period of 6 units.
+111000 has a period of 6 units.
+000100 has a period of 6 units.
+100100 has a period of 3 units.
+010100 has a period of 6 units.
+110100 has a period of 6 units.
+001100 has a period of 3 units.
+101100 has a period of 6 units.
+011100 has a period of 6 units.
+111100 has a period of 6 units.
+000010 has a period of 6 units.
+100010 has a period of 6 units.
+010010 has a period of 3 units.
+110010 has a period of 6 units.
+001010 has a period of 6 units.
+101010 has a period of 6 units.
+011010 has a period of 6 units.
+111010 has a period of 3 units.
+000110 has a period of 6 units.
+100110 has a period of 6 units.
+010110 has a period of 6 units.
+110110 has a period of 1 units.
+001110 has a period of 6 units.
+101110 has a period of 6 units.
+011110 has a period of 3 units.
+111110 has a period of 6 units.
+000001 has a period of 6 units.
+100001 has a period of 3 units.
+010001 has a period of 6 units.
+110001 has a period of 6 units.
+001001 has a period of 3 units.
+101001 has a period of 6 units.
+011001 has a period of 6 units.
+111001 has a period of 6 units.
+000101 has a period of 3 units.
+100101 has a period of 6 units.
+010101 has a period of 6 units.
+110101 has a period of 6 units.
+001101 has a period of 6 units.
+101101 has a period of 1 units.
+011101 has a period of 6 units.
+111101 has a period of 6 units.
+000011 has a period of 6 units.
+100011 has a period of 6 units.
+010011 has a period of 6 units.
+110011 has a period of 3 units.
+001011 has a period of 6 units.
+101011 has a period of 6 units.
+011011 has a period of 1 units.
+111011 has a period of 6 units.
+000111 has a period of 6 units.
+100111 has a period of 6 units.
+010111 has a period of 3 units.
+110111 has a period of 6 units.
+001111 has a period of 6 units.
+101111 has a period of 6 units.
+011111 has a period of 6 units.
+111111 has a period of 3 units.
+0000000 dies out.
+00000000 dies out.
+000000000 dies out.
+0000000000 dies out.
+00000000000 dies out.
+000000000000 dies out.
+0000000000000 dies out.
+00000000000000 dies out.
+1111111 has a period of 4 units.
+11111111 has a period of 7 units.
+111111111 has a period of 1 units.
+1111111111 has a period of 14 units.
+11111111111 has a period of 6 units.
+111111111111 has a period of 31 units.
+1111111111111 has a period of 8 units.
+11111111111111 has a period of 63 units.
+1101000 has a period of 8 units.
+1111100 has a period of 8 units.
+1010010 has a period of 8 units.
+1110010 has a period of 8 units.
+1001010 has a period of 8 units.
+0011110 has a period of 4 units.
+0101110 has a period of 4 units.
+1001001 has a period of 4 units.
+1010101 has a period of 4 units.
+1111101 has a period of 4 units.
+0001000 has a period of 2 units.
+0010100 has a period of 2 units.
+0111110 has a period of 2 units.
+1010011 has a period of 2 units.
+0100010 has a period of 2 units.
+0110110 has a period of 1 units.
+1110001 has a period of 1 units.
+1101101 has a period of 1 units.
+1011011 has a period of 1 units.
+0011100 has a period of 1 units.
+0101010 dies out.
+00100000 has a period of 14 units.
+00011100 has a period of 14 units.
+10011100 has a period of 14 units.
+10000110 has a period of 14 units.
+00101001 has a period of 14 units.
+11001000 has a period of 7 units.
+00100100 has a period of 7 units.
+00111100 has a period of 7 units.
+10001010 has a period of 7 units.
+01100110 has a period of 7 units.
+11011011 has a period of 1 units.
+01101101 has a period of 1 units.
+10110110 has a period of 1 units.
+111011001 has a period of 1 units.
+000001101 has a period of 1 units.
+101110011 has a period of 1 units.
+011101111 has a period of 1 units.
+001111011 has a period of 1 units.
+010000000 dies out.
+001100000 dies out.
+000110000 dies out.
+001001000 dies out.
+010000100 dies out.
+1000000000 has a period of 28 units.
+1001100000 has a period of 28 units.
+1111010000 has a period of 28 units.
+1010001000 has a period of 28 units.
+1101101000 has a period of 28 units.
+0001000000 has a period of 14 units.
+0101011000 has a period of 14 units.
+0011110100 has a period of 14 units.
+0100010010 has a period of 14 units.
+0001000110 has a period of 14 units.
+0001001000 has a period of 7 units.
+0001111000 has a period of 7 units.
+0010000100 has a period of 7 units.
+0011001100 has a period of 7 units.
+0100000010 has a period of 7 units.
+1110111000 has a period of 4 units.
+1010101100 has a period of 4 units.
+1000001110 has a period of 4 units.
+0011010101 has a period of 4 units.
+0101100011 has a period of 4 units.
+0100010100 has a period of 2 units.
+0010100010 has a period of 2 units.
+1001111001 has a period of 2 units.
+1111001111 has a period of 2 units.
+0110110110 has a period of 1 units.
+1101101101 has a period of 1 units.
+01100000000 has a period of 12 units.
+10100100000 has a period of 12 units.
+01101000100 has a period of 12 units.
+11011000010 has a period of 12 units.
+00111001001 has a period of 12 units.
+11011000000 has a period of 6 units.
+00000100000 has a period of 6 units.
+01011111010 has a period of 6 units.
+01111111110 has a period of 6 units.
+10010110010 has a period of 6 units.
+11010010000 has a period of 3 units.
+10000111010 has a period of 3 units.
+01111011110 has a period of 3 units.
+01011100001 has a period of 3 units.
+01000011001 has a period of 3 units.
+10110110110 has a period of 1 units.
+111100000000 has a period of 62 units.
+010010010000 has a period of 62 units.
+100110001000 has a period of 62 units.
+001110011000 has a period of 62 units.
+100100111111 has a period of 62 units.
+111110011111 has a period of 31 units.
+111101101111 has a period of 31 units.
+010001001111 has a period of 31 units.
+110110011011 has a period of 31 units.
+110010010011 has a period of 31 units.
+011011011011 has a period of 1 units.
+101101101101 has a period of 1 units.
+110110110110 has a period of 1 units.
+1011010000000 has a period of 16 units.
+1011001111100 has a period of 16 units.
+0001001010111 has a period of 16 units.
+0100001001111 has a period of 16 units.
+1000001010100 has a period of 16 units.
+0001011011100 has a period of 8 units.
+0011101010010 has a period of 8 units.
+0110000011110 has a period of 8 units.
+1001111010101 has a period of 8 units.
+1000111101011 has a period of 8 units.
+1011010000000 has a period of 16 units.
+1011001111100 has a period of 16 units.
+0001001010111 has a period of 16 units.
+0100001001111 has a period of 16 units.
+1000001010100 has a period of 16 units.
+0001011011100 has a period of 8 units.
+0011101010010 has a period of 8 units.
+0110000011110 has a period of 8 units.
+1001111010101 has a period of 8 units.
+1000111101011 has a period of 8 units.
+1011010011011 has a period of 4 units.
+1011000111011 has a period of 4 units.
+1011100101011 has a period of 4 units.
+1011110001011 has a period of 2 units.
+0111110111110 has a period of 2 units.
+0011100011100 has a period of 1 units.
+11100000000010 has a period of 126 units.
+01111011111001 has a period of 126 units.
+10011100010111 has a period of 126 units.
+01000100101101 has a period of 126 units.
+11010000000001 has a period of 126 units.
+10111000011101 has a period of 63 units.
+10010111101001 has a period of 63 units.
+00100000000100 has a period of 63 units.
